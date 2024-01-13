@@ -1,2 +1,2 @@
 # netflix-clone
- i try to clone netflic platform using reactjs tech
+ i try to clone netflix platform using reactjs tech
